@@ -4,6 +4,7 @@ GEM
     activesupport (3.2.13)
       i18n (= 0.6.1)
       multi_json (~> 1.0)
+    builder (3.0.4)
     i18n (0.6.1)
     multi_json (1.7.1)
     nokogiri (1.5.6)
@@ -22,6 +23,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  builder
   nokogiri
   rabl
   sinatra
