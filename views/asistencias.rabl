@@ -1,0 +1,2 @@
+collection @asistencias
+extends 'asistencia'

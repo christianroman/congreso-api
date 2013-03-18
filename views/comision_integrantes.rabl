@@ -1,0 +1,2 @@
+collection @comision_integrantes
+extends 'comision_integrante'

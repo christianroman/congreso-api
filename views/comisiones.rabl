@@ -1,0 +1,2 @@
+collection @comisiones
+extends 'comision'

@@ -1,0 +1,2 @@
+collection @proposiciones
+extends 'proposicion'

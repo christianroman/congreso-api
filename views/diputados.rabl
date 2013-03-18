@@ -1,0 +1,2 @@
+collection @diputados
+extends 'diputado'

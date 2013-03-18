@@ -1,0 +1,2 @@
+collection @votaciones
+extends 'votacion'

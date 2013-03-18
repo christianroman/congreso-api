@@ -1,0 +1,2 @@
+collection @iniciativas
+extends 'iniciativa'
